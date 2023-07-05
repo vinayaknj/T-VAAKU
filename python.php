@@ -58,12 +58,12 @@ echo "<center><h1><pre>";
 echo "Malayalam Digital Representation is:";
 print_r($output);
 echo "</pre></h1></center>";
-//file_put_contents("file.txt", "");
+//file_put_contents("C:/xampp/htdocs/TVAAKU-master/file.txt", "");
 echo "<br>";
-//echo "<a href='http://localhost/FINALS/heyy.php'>CREATE PDF OF TEXT</a>";
+//echo "<a href='http://localhost/TVAAKU-master/heyy.php'>CREATE PDF OF TEXT</a>";
 echo "<br>";
 echo "<br>";
-echo "<a href='http://localhost/FINALS/heyy.php'><button class='button'><span>CREATE PDF OF TEXT </span></button></a>";
+echo "<a href='http://localhost/TVAAKU-master/heyy.php'><button class='button'><span>CREATE PDF OF TEXT </span></button></a>";
 //header("Location: http://localhost/test/test/backend/redirect.php"); /* Redirect browser */
 //exit();
 ?>

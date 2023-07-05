@@ -13,6 +13,6 @@ echo "<center><h1><pre>";
 echo "Malayalam Digital Representation is:";
 print_r($output);
 echo "</pre></h1></center>";
-file_put_contents("file.txt", "");
+file_put_contents("C:/xampp/htdocs/TVAAKU-master/file.txt", "");
 ?>
 </body>
